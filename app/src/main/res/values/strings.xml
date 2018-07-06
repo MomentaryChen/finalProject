@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="watch">寵物視訊</string>
+    <string name="setTime">餵食設置</string>
+</resources>
