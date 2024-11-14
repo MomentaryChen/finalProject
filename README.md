@@ -1,4 +1,4 @@
-## ![影片](https://www.youtube.com/watch?v=G5j8DeKDwIQ)
+## [影片](https://www.youtube.com/watch?v=G5j8DeKDwIQ)
 
 三方系統互通：使用 Android 手機、Linux 樹梅派與 Windows 伺服器實現三端互通，達成 IoT 概念，未來目標是擴展至智慧家電應用。
 
